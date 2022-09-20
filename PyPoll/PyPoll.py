@@ -21,8 +21,6 @@ winnervotes=0
 with open(file_for_analysis) as csv_file:
     csv_reader = csv.reader(csv_file, delimiter = ",")
     csv_header = next(csv_file)
-    print(f"Header:{csv_header}")
-    output.write(f"Header:{csv_header}\n")
 
 #The total number of votes cast
     for row in csv_reader:
@@ -60,7 +58,6 @@ for name in numberwon:
 #Print 
 print(f"-------------------------")
 print(f"Winner: {winnername}")
-print(f"-------------------------")
 output.write(f"-------------------------\n")
 output.write(f"Winner: {winnername}\n")
-output.write(f"-------------------------\n")
+
