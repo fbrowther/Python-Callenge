@@ -7,4 +7,4 @@ The entire analysis was carried out on Visual studio code employing Python scrip
 
 PyBank analysis:
 Likewise, revenue data from a representative small company was used to carry out the anlysis. The data consisted of 
-"Dates" and "Profit/Loss" and this data was used to calculate (i)the total number of months the dataset represented, (ii) the total amount of profit/Losses recorded, (iii) the changes in the profit/Losses for the total months and (iv) the greatest increase or (v) greatest decrease over the entire period. The result of the analysis was recorded in a separate txt file.
+"Dates" and "Profit/loss" and this data was used to calculate (i)the total number of months the dataset represented, (ii) the total amount of profit/losses recorded, (iii) the changes in the profit/losses for the total months and (iv) the greatest increase or (v) greatest decrease over the entire period. The result of the analysis was recorded in a separate txt file.
